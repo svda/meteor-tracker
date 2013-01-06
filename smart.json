@@ -1,4 +1,10 @@
 {
+  "name": "tracker",
+  "description": "Track your app's visitors behaviors in your favorite analytics platform",
+  "homepage": "https://github.com/svda/meteor-tracker",
+  "author": "Sander van den Akker  (http://sandervandenakker.nl)",
+  "version": "0.1.0",
+  "git": "https://github.com/svda/meteor-tracker.git",
   "packages": {
   }
 }
